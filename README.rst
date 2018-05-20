@@ -5,7 +5,7 @@ StackExchangePy
 
 
 .. image:: https://img.shields.io/pypi/v/stackexchangepy.svg?style=flat-square   :alt: PyPI
-.. image:: https://img.shields.io/pypi/l/sctakexchangepy.svg?style=flat-square   :alt: PyPI - License
+.. image:: https://img.shields.io/pypi/l/stackexchangepy.svg?style=flat-square   :alt: PyPI - License
 
 StackExchange API Wrapper, written in Python3.
 

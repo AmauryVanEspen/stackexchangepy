@@ -24,7 +24,7 @@ setup(
       'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)',
       'Programming Language :: Python :: 3.6'
     ],
-
+    license='GNU General Public License v3 or later (GPLv3+)',
     keywords='stackexchange api wrapper python3',
     packages=find_packages(exclude=['contrib', 'docs', 'tests', 'venv']),
 )
